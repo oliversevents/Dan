@@ -2,9 +2,14 @@
 
 /*--------------------------------------------Colors*/
 
-.contact-background {
+.ui-menu-color {
     background-color: black;
 }
 
 /*--------------------------------------------Header*/
 
+.menuitem {
+     height: 120px;
+    text-align: center;
+    padding: 0;
+}
