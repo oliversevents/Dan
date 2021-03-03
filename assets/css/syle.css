@@ -1,4 +1,4 @@
-.container {
+.container-fluid {
     width: 100%;
     height: 80px;
     background-color: black;
@@ -7,26 +7,6 @@
 .column {
     float: left;
     width:33.3%;
-}
-
-.contact-details {
-    background-color: black;
-    color: white;
-}
-
-.home-phone-details {
-    text-align: center;
-    color: white;
-}
-
-.mobile-phone-details {
-    text-align: center;
-    color: white;
-}
-
-.email-details {
-    text-align: center;
-    color: white;
 }
 
 .logo-holder {
