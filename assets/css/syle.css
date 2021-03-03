@@ -1,8 +1,3 @@
-.contact-details {
-    background-color: black;
-    color: white;
-}
-
 .container {
     width: 100%;
     height: 80px;
@@ -12,6 +7,11 @@
 .column {
     float: left;
     width:33.3%;
+}
+
+.contact-details {
+    background-color: black;
+    color: white;
 }
 
 .home-phone-details {
